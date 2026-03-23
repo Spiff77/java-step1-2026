@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir -p /Users/thomaslhomme/gz/repo/java-springboot/labs/lab04-annotations-generics/resources/src/main/java/io/treelevel/training/generics)",
+      "Bash(mkdir -p /Users/thomaslhomme/gz/repo/java-springboot/labs/lab04-annotations-generics/correction/src/main/java/io/treelevel/training/generics)"
+    ]
+  }
+}
